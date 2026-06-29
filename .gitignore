@@ -1,0 +1,12 @@
+# .NET build output
+bin/
+obj/
+
+# IDE / editor
+.vs/
+*.user
+.idea/
+
+# OS cruft
+Thumbs.db
+desktop.ini
